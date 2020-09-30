@@ -1,0 +1,5 @@
+Rudi - Merancang dan Mendesign UI
+Devi - Memilih Framework Front End 
+Intan - Mengubah Design ke Code
+Khairin - Membuat Responsive UI 
+Testing dan Penanganan Bug
